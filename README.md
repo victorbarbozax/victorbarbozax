@@ -1,5 +1,3 @@
-# victorbarbozax
-
 # 👋 Olá, eu sou o Victor Barboza
 
 💻 Estudante de Programação Java  
