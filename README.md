@@ -3,9 +3,10 @@
 Sou estudante de programação com foco em desenvolvimento backend em Java.
 Busco aprimorar minhas habilidades através de projetos práticos e aprendizado contínuo.
 
-##
-💻 Estudante de Programação Java
-🎯 Desenvolvendo projetos com Java, POO, JDBC, MySQL, JavaFX e Spring Boot
+💻 Estudante de Programação  Java  
+
+🎯 Desenvolvendo projetos com Java, POO, JDBC, MySQL, JavaFX e Spring Boot  
+
 🚀 Em constante evolução para me tornar um desenvolvedor Java profissional
 
 ## 🧠 Stack em aprendizado:
