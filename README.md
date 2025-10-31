@@ -1,17 +1,20 @@
 # 👋 Olá, eu sou o Victor Barboza
 
-💻 Estudante de Programação Java  
-🎯 Foco em POO, JDBC e Spring Boot  
-🚀 Sonho em me tornar programador profissional  
+Sou estudante de programação com foco em desenvolvimento backend em Java.
+Busco aprimorar minhas habilidades através de projetos práticos e aprendizado contínuo.
 
-## 🧠 Tecnologias que estou aprendendo:
+💻 Estudante de Programação Java
+🎯 Desenvolvendo projetos com Java, POO, JDBC, MySQL, JavaFX e Spring Boot
+🚀 Em constante evolução para me tornar um desenvolvedor Java profissional
+
+## 🧠 Stack em aprendizado:
 - Java ☕  
 - JDBC / JPA / Hibernate  
+- MySql
 - Spring Boot  
-- MySQL  
 - Git & GitHub
-- Mongo DB
-- Java FX  
+- MongoDB (NoSql)
+- Java FX 
 
 ## 📂 Projetos em destaque:
 - [Chess System](https://github.com/victorbarbozax/chess-system-java) - Sistema de xadrez em Java com POO  
