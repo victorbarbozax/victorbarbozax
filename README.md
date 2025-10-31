@@ -8,7 +8,8 @@ Busco aprimorar minhas habilidades através de projetos práticos e aprendizado 
 🚀 Em constante evolução para me tornar um desenvolvedor Java profissional
 
 ## 🧠 Stack em aprendizado:
-- Java ☕  
+- Java ☕
+- POO
 - JDBC / JPA / Hibernate  
 - MySql
 - Spring Boot  
