@@ -10,10 +10,9 @@ Busco aprimorar minhas habilidades através de projetos práticos e aprendizado 
 ## 🧠 Stack em aprendizado:
 - Java ☕
 - POO
-- JDBC / JPA / Hibernate  
+- JDBC
 - MySql
 - Spring Boot  
-- Git & GitHub
 - MongoDB (NoSql)
 - Java FX 
 
