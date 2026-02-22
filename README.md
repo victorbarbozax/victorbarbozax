@@ -17,7 +17,7 @@ Busco aprimorar minhas habilidades através de projetos práticos e aprendizado 
 - Java FX 
 
 ## 📂 Projetos em destaque:
-- [workshop-spring-boot-mongodb](https://github.com/victorbarbozax/workshop-spring-boot-mongodb) - Controle de mongodb com spring-boot
+- [workshop-spring-boot-mongodb](https://github.com/victorbarbozax/workshop-spring-boot-mongodb) - Controle de dados em mongodb com spring-boot
 - [Chess System](https://github.com/victorbarbozax/chess-system-java) - Sistema de xadrez em Java com POO  
 - [Demo DAO](https://github.com/victorbarbozax/EmployeeSalaryAnalyzer) - Demonstração do padrão DAO em Java
 - [Workshop Spring Boot 3 JPA](https://github.com/victorbarbozax/workshop-springboot3-jpa) - API REST com Spring Boot  
