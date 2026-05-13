@@ -9,7 +9,7 @@ Busco aprimorar minhas habilidades através de projetos práticos e aprendizado 
 
 ## 🧠 Stack em aprendizado:
 - Java ☕
-- POO
+- Poo
 - JDBC
 - MySql
 - Spring Boot  
