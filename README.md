@@ -8,26 +8,30 @@ public class VictorBarboza {
 }
 ```
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1200&color=6DB33F&center=true&vCenter=true&width=520&lines=Backend+Developer+%7C+Java+%26+Spring;Escrevendo+c%C3%B3digo+leg%C3%ADvel+e+sustent%C3%A1vel;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+
 </div>
 
----
+<br>
 
 ## Sobre mim
 
-Estudante de desenvolvimento backend com foco em **Java** e no ecossistema que orbita ao redor dele.  
+Estudante de desenvolvimento backend com foco em **Java** e no ecossistema que orbita ao redor dele.
 Acredito que escrever código é apenas metade do trabalho — a outra metade é escrever código que outros consigam entender, manter e evoluir.
 
 Atualmente construindo projetos reais para consolidar fundamentos sólidos antes de avançar para sistemas distribuídos e arquiteturas mais complexas.
 
----
+<br>
 
 ## Stack
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git)](https://skillicons.dev)
 
 </div>
----
+
+<br>
 
 ## Trajetória
 
@@ -38,29 +42,53 @@ Atualmente construindo projetos reais para consolidar fundamentos sólidos antes
   [✓] JDBC & MySQL            [✓] Spring Boot 3 + JPA
   [✓] MongoDB + NoSQL         [✓] JavaFX
   [✓] REST APIs               [ ] Microsserviços
-                              [ ] Docker & Cloud
-                              [ ] Arquitetura Hexagonal
+                               [ ] Docker & Cloud
+                               [ ] Arquitetura Hexagonal
 ```
 
----
+<br>
 
-## Projetos em Destaque
+## Projetos em destaque
 
-| Projeto | Tecnologias | Descrição |
-|---|---|---|
-| [♟️ Chess System](https://github.com/VictorBarboza/chess-system-java) | `Java` `POO` `OOP` | Engine de xadrez com arquitetura em camadas e validação completa de movimentos |
-| [🌱 Workshop Spring MongoDB](https://github.com/VictorBarboza/workshop-spring-boot-mongodb) | `Spring Boot` `MongoDB` | API REST com integração NoSQL |
-| [🗃️ Demo DAO](https://github.com/VictorBarboza/demo-dao-jdbc) | `Java` `JDBC` `MySQL` | Implementação do padrão DAO com banco relacional |
-| [🚀 Workshop Spring Boot 3 JPA](https://github.com/VictorBarboza/workshop-springboot3-jpa) | `Spring Boot 3` `JPA` | API REST com Spring Boot e persistência JPA |
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/VictorBarboza/chess-system-java">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorBarboza&repo=chess-system-java&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/VictorBarboza/workshop-spring-boot-mongodb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorBarboza&repo=workshop-spring-boot-mongodb&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/VictorBarboza/demo-dao-jdbc">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorBarboza&repo=demo-dao-jdbc&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/VictorBarboza/workshop-springboot3-jpa">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorBarboza&repo=workshop-springboot3-jpa&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ## Filosofia
 
-> *"Primeiro faça funcionar. Depois faça certo. Por último, faça rápido."*  
+> *"Primeiro faça funcionar. Depois faça certo. Por último, faça rápido."*
 > — Kent Beck
 
----
+<br>
 
 ## Contato
 
@@ -70,10 +98,4 @@ Atualmente construindo projetos reais para consolidar fundamentos sólidos antes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorBarboza)
 
-</div>
-
----
-
-<div align="center">
-<sub>Atualizado em 2026 · Construído com propósito.</sub>
 </div>
