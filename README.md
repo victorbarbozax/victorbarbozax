@@ -25,7 +25,7 @@ Atualmente construindo projetos reais para consolidar fundamentos sólidos antes
 - [x] MongoDB + NoSQL
 - [x] JavaFX
 - [x] REST APIs
-- [ ] Microsserviços
+- [x] Microsserviços
 - [ ] Docker & Cloud
 - [ ] Arquitetura Hexagonal
 
