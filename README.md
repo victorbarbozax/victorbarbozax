@@ -17,19 +17,6 @@ Atualmente construindo projetos reais para consolidar fundamentos sólidos antes
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Trajetória
-
-- [x] Fundamentos Java
-- [x] POO & Design Patterns
-- [x] JDBC & MySQL
-- [x] Spring Boot 3 + JPA
-- [x] MongoDB + NoSQL
-- [x] JavaFX
-- [x] REST APIs
-- [x] Microsserviços
-- [ ] Docker & Cloud
-- [ ] Arquitetura Hexagonal
-
 ## Projetos em destaque
 
 - [Chess System](https://github.com/VictorBarboza/chess-system-java) — `Java` `POO`
