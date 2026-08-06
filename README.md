@@ -20,8 +20,8 @@ Atualmente construindo projetos reais para consolidar fundamentos sólidos antes
 ## Projetos em destaque
 
 - [Workshop Spring Boot MongoDB](https://github.com/victorbarbozax/workshop-spring-boot-mongodb.git) — `Spring Boot` `MongoDB`
-- [Demo DAO JDBC](https://github.com/VictorBarboza/demo-dao-jdbc) — `Java` `JDBC` `MySQL`
 - [Workshop Spring Boot 3 JPA](https://github.com/VictorBarboza/workshop-springboot3-jpa) — `Spring Boot 3` `JPA`
+- [Demo DAO JDBC](https://github.com/victorbarbozax/demo-dao-jdbc.git) — `Java` `JDBC` `MySQL`
 - [Chess System](https://github.com/victorbarbozax/chess-system-java.git) — `Java` `POO`
 
 ## Contato
