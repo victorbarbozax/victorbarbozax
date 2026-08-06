@@ -19,10 +19,10 @@ Atualmente construindo projetos reais para consolidar fundamentos sólidos antes
 
 ## Projetos em destaque
 
-- [Chess System](https://github.com/VictorBarboza/chess-system-java) — `Java` `POO`
 - [Workshop Spring Boot MongoDB](https://github.com/victorbarbozax/workshop-spring-boot-mongodb.git) — `Spring Boot` `MongoDB`
 - [Demo DAO JDBC](https://github.com/VictorBarboza/demo-dao-jdbc) — `Java` `JDBC` `MySQL`
 - [Workshop Spring Boot 3 JPA](https://github.com/VictorBarboza/workshop-springboot3-jpa) — `Spring Boot 3` `JPA`
+- [Chess System](https://github.com/victorbarbozax/chess-system-java.git) — `Java` `POO`
 
 ## Contato
 
